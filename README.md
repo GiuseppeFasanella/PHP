@@ -19,3 +19,9 @@ Capito come funziona, passiamo alla **soluzione pratica** (guarditi i video tuto
 Al che, l'utente root avra' una cartella **/var/www** all'interno della quale puoi mettere i tuoi file .html e .php
 
 Se ora, nel browser scrivi l'indirizzo `localhost/file` accedi da browser ai tuoi file
+
+Il modo migliore per imparare il PHP e' **partire da un esempio**.
+
+[html] (https://github.com/GiuseppeFasanella/html_snippets_codes)
+
+enteringinfo.html che chiama learn.php
