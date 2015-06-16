@@ -1,6 +1,4 @@
 # PHP
-PHP language
-
 I concetti fondamentali da capire sono:
 
 * Se scrivi un file .html e ci clicchi sopra, il browser lo aprira' e lo legge
@@ -22,6 +20,8 @@ Se ora, nel browser scrivi l'indirizzo `localhost/file` accedi da browser ai tuo
 
 Il modo migliore per imparare il PHP e' **partire da un esempio**.
 
-[html] (https://github.com/GiuseppeFasanella/html_snippets_codes)
+L'obiettivo e': `Voglio passare informazioni tramite browser e farne qualcosa`
 
-enteringinfo.html che chiama learn.php
+* Si parte con un **file .html** (per la sintassi [html] (https://github.com/GiuseppeFasanella/html_snippets_codes) vedi qui) `enteringinfo.html` e' un wrapper. un supporto grafico che avvolge lo script in php
+
+* enteringinfo.html chiama **learn.php** che processa le informazioni passate tramite l'html di prima
