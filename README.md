@@ -25,3 +25,4 @@ L'obiettivo e': `Voglio passare informazioni tramite browser e farne qualcosa`
 * Si parte con un **file .html** (per la sintassi [html] (https://github.com/GiuseppeFasanella/html_snippets_codes) vedi qui) `enteringinfo.html` e' un wrapper. un supporto grafico che avvolge lo script in php
 
 * enteringinfo.html chiama **learn.php** che processa le informazioni passate tramite l'html di prima
+* learn.php e' commentato bene qui dove commento un po' la sintassi
