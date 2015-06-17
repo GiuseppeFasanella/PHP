@@ -139,8 +139,8 @@ EOD;
 			
 			// You can increment and decrement with this shortcut
 			
-			echo "++randNum = " . ++$randNum . "</br>";
-			echo "randNum++ = " . $randNum++;
+			echo "++randNum = " . ++$randNum . "</br>"; //prima incrementa
+			echo "randNum++ = " . $randNum++;//prima stampa randNum e poi prosegue
 			
 			echo "</br></br>";
 			

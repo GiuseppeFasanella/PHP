@@ -1,15 +1,18 @@
 <html>
 <body>
-<!--
 <form action="learnphp.php" method="post">
+<!--
+lo script in php e' embedded in un file html. 
+Qui gli stai dicendo: lo script learnphp.php ha il compito di processare le info che seguono
 -->
-<form action="playphp.php" method="post">
 
 <table border="0">
 
-<tr>
+<tr> <!-- Table row -->
   <td>Name</td>
   <td align="center"><input type="text" name="username" size="30" /></td>
+<!-- input da' l'abilita' di fare "input" di informazioni 
+Le info saranno passate tramite un array di nome $_POST[] -->
 </tr>
 
 <tr>
@@ -27,6 +30,8 @@
 </tr>
 
 </table>
+<!-- chiude table tag -->
+
 </form>
 </body>
 </html>
