@@ -16,7 +16,10 @@ Capito come funziona, passiamo alla **soluzione pratica** (guarditi i video tuto
 
 Al che, l'utente root avra' una cartella **/var/www** all'interno della quale puoi mettere i tuoi file .html e .php
 
-Se ora, nel browser scrivi l'indirizzo `localhost/file` accedi da browser ai tuoi file
+Quindi, mi spiego meglio, un file .html il browser lo sa leggere, e' il php che il browser non sa processare a meno che non sia su un server con php installato. Percio', se provi a premere il tasto `submit` ad esempio di un html che hai sulla scrivania, il browser non sapendo cosa fare lo scarichera'. La cosa la risolvi mettendo l'html che chiama il php nella cartella /var/www dove hai installato php. In questo modo, al premere `submit` il server sa cosa fare e processera' le informazioni correttamente.
+
+Se ora, nel browser scrivi l'indirizzo `localhost/file` accedi da browser ai tuoi file, in particolare al tipico
+html che passa poi le informazioni a un php che le processa.
 
 Il modo migliore per imparare il PHP e' **partire da un esempio**.
 
