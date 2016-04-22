@@ -1,4 +1,8 @@
 # PHP
+
+Tu da browser sei sulla pagina `enteringinfo.html`; quando fai `submit` viene chiamato learn.php che processa le informazioni passate tramite l'html
+
+
 I concetti fondamentali da capire sono:
 
 * Se scrivi un file .html e ci clicchi sopra, il browser lo aprira' e lo legge
